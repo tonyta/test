@@ -8,7 +8,7 @@ We're going to write a method called `prime_factors` which calculates the prime 
 
 A number is **prime** if it is greater than 1 and no number divides it other than 1 and itself. [Euclid](http://en.wikipedia.org/wiki/Euclid), circa 300BC, proved that every integer greater than 1 is either prime itself or the product of prime numbers, and that these **prime factors** are unique.
 
-For example,
+For example:
 
 <p style="text-align: center">
   <span class="latex">
@@ -27,12 +27,12 @@ This fact is important enough to be called the [fundamental theorem of arithmeti
 
 ## Learning Goals
 
-* Using pseudocode effectively to model problem-solving
-* Looping and Control
+* Use pseudocode effectively to model problem-solving
+* Use looping to [control flow](http://en.wikipedia.org/wiki/Control_flow}.
 
 ## Objectives
 
-### Write a prime_factors method
+### Write a prime_factors method.
 
 Write a method `prime_factors` that takes an integer `n` and returns an array of the prime factors of `n`.
 
