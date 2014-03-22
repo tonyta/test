@@ -1,2 +1,2 @@
 hello John
-goodbye Tony
+goodbye Tony & John
